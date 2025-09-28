@@ -1,2 +1,5 @@
 .venv/
-data/
+*.pth
+data/cifar-10-batches-py/
+data/FashionMNIST/
+data/*.gz
